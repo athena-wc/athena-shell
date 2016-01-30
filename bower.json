@@ -1,0 +1,41 @@
+{
+  "name": "Athena-Template",
+  "description": "Template for Athena-based projects",
+  "main": "",
+  "authors": [
+    "Carlos Araya <carlos.araya@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "polymer",
+    "web",
+    "components",
+    "athena"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "git://github.com/Polymer/polymer.git#^1.2.4",
+    "web-component-tester": "Polymer/web-component-tester#^4.1.0",
+    "webcomponentsjs": "^0.7.20",
+    "athena-fonts": "^0.2.0",
+    "athena-vimeo": "^0.2.0",
+    "athena-figure": "^0.1.0",
+    "athena-video": "^0.1.0",
+    "athena-audio": "^0.1.0",
+    "athena-document": "^1.1.0",
+    "athena-gallery": "^0.1.0"
+  },
+  "resolutions": {
+    "polymer": "^1.2.4",
+    "iron-component-page": "~1.1.2"
+  }
+}
