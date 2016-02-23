@@ -32,7 +32,8 @@
     "athena-video": "^0.1.0",
     "athena-audio": "^0.1.0",
     "athena-document": "^1.1.0",
-    "athena-gallery": "^0.1.0"
+    "athena-gallery": "^0.1.0",
+    "platinum-sw": "PolymerElements/platinum-sw#^1.2.3"
   },
   "resolutions": {
     "polymer": "^1.2.4",
